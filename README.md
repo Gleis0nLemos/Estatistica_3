@@ -1,11 +1,11 @@
 ### Estatística com Python: Testes de hipóteses
     Curso da escola de programação Alura o.O
 
-#### Tópicos da AULA 02:
+#### Observações da AULA 03:
 
 ###
-    - A aplicação de um teste paramétrico bicaudal;
-    - A execução dos passos de um teste de hipóteses;
-    - As regras de rejeição da hipótese nula de um teste;
-    - A entender e calcular o p-valor de um teste;
-    - A aplicação de um teste z com as ferramentas do Python.
+    - A distribuição t de Student;
+    - A construir e consultar uma tabela t de Student;
+    - A aplicação de um teste paramétrico unicaudal;
+    - A definição de hipóteses e obtenção de áreas críticas para um teste unicaudal;
+    - A aplicação de um teste t com as ferramentas do Python.
