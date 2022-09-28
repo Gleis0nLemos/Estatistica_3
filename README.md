@@ -1,9 +1,10 @@
 ### Estatística com Python: Testes de hipóteses
     Curso da escola de programação Alura o.O
 
-#### Informações da AULA 04:
+#### AULA 05:
 
 ###
-    - A aplicação de teste de comparação entre médias de amostras diferentes;
-    - A definição das hipóteses para testes entre duas amostras;
-    - A aplicação de um teste z, para duas amostras, com as ferramentas do Python.
+    - A distribuição Qui-quadrado;
+    - A construir e consultar uma tabela de Qui-quadrado;
+    - A aplicação do teste não paramétrico de Qui-quadrado;
+    - O cálculo do p-valor com a distribuição Qui-quadrado.
