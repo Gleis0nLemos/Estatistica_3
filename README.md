@@ -1,8 +1,19 @@
 ### Estatística com Python: Testes de hipóteses
     Curso da escola de programação Alura o.O
 
-#### Projetos da AULA 07:
+#### Sumário das aulas:
 
 ###
-    - A fixação do entendimento sobre testes de hipóteses paramétricos e não paramétricos;
-    - A aplicação das técnicas desenvolvidas no treinamento para solução de problemas reais.
+    - Teste de normalidade e as etapas de um teste; 
+###
+    - Teste bicaudal e entendendo o p-valor;
+###
+    - Distribuição t de Student e o teste unicaudal;
+###
+    - Teste para duas amostras;
+###
+    - Distribuição Qui-Quadrado;
+###
+    - Teste de Wilcoxon e Mann-Whitney;
+###
+    - Resumo e projeto final;
