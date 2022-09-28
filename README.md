@@ -1,10 +1,11 @@
 ### Estatística com Python: Testes de hipóteses
     Curso da escola de programação Alura o.O
 
-#### AULA 05:
+#### Aplicações da AULA 06:
 
 ###
-    - A distribuição Qui-quadrado;
-    - A construir e consultar uma tabela de Qui-quadrado;
-    - A aplicação do teste não paramétrico de Qui-quadrado;
-    - O cálculo do p-valor com a distribuição Qui-quadrado.
+    - A aplicação de testes não paramétricos de comparação entre amostras dependentes;
+    - A elaboração do teste não paramétrico de Wilcoxon;
+    - A aplicação de testes não paramétricos de comparação entre amostras independentes;
+    - A elaboração do teste não paramétrico de Mann-Whitney;
+    - A utilização do ferramental Python para aplicação dos testes de Wilcoxon e Mann-Whitney.
