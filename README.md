@@ -1,11 +1,9 @@
 ### Estatística com Python: Testes de hipóteses
     Curso da escola de programação Alura o.O
 
-#### Observações da AULA 03:
+#### Informações da AULA 04:
 
 ###
-    - A distribuição t de Student;
-    - A construir e consultar uma tabela t de Student;
-    - A aplicação de um teste paramétrico unicaudal;
-    - A definição de hipóteses e obtenção de áreas críticas para um teste unicaudal;
-    - A aplicação de um teste t com as ferramentas do Python.
+    - A aplicação de teste de comparação entre médias de amostras diferentes;
+    - A definição das hipóteses para testes entre duas amostras;
+    - A aplicação de um teste z, para duas amostras, com as ferramentas do Python.
